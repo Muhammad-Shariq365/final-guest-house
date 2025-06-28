@@ -39,7 +39,7 @@ export default function About() {
   ];
 
   return (
-    <section className="py-16 md:py-24 bg-gradient-to-b from-blue-50 to-white">
+    <section className="py-16 md:py-24 bg-gradient-to-b from-blue-50 to-white overflow-hidden">
       <div className="container mx-auto px-6">
         <div className="text-center mb-16" data-aos="fade-up">
           <span className="inline-block px-3 py-1 text-md font-semibold tracking-wider text-orange-600 uppercase bg-orange-100 rounded-full">Our Story</span>
