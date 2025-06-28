@@ -93,7 +93,7 @@ export default function ServicesSection() {
   const galleryImages = [Pic1, Pic2, Pic3, Pic4, Pic5, Pic6, Pic7, Pic8, Pic9];
 
   return (
-    <section className="py-16 md:py-24 bg-gradient-to-b from-white to-blue-50">
+    <section className="py-16 md:py-24 bg-gradient-to-b from-white to-blue-50 overflow-hidden">
       <div className="container mx-auto px-6">
         {/* Header */}
         <div className="text-center mb-12" data-aos="fade-up">
