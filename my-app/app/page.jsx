@@ -29,7 +29,7 @@ export default function HeroSection() {
   }, []);
 
   return (
-    <section className="relative bg-gradient-to-b from-blue-50 to-white">
+    <section className="relative bg-gradient-to-b from-blue-50 to-white overflow-hidden">
       <div className="container mx-auto px-6 py-16 md:py-24 lg:py-32">
         <div className="flex flex-col lg:flex-row items-center">
           <div className="lg:w-1/2 lg:pr-12 mb-12 lg:mb-0" data-aos="fade-right">
