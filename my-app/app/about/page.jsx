@@ -148,9 +148,9 @@ export default function About() {
             </ul>
             <div className="flex items-center space-x-4">
               <div className="flex -space-x-2">
-                {["https://img.freepik.com/free-photo/front-view-man-ambulance-car_23-2149478476.jpg",
-                  "https://img.freepik.com/free-photo/picture-dissatisfied-grumpy-young-afro-american-woman.jpg",
-                  "https://img.freepik.com/free-photo/closeup-shot-beautiful-young-lady-front-christmas-tree.jpg"
+                {["https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQCzZIgL-0XFsq2BTh_-EwcYKc1cu4gCJjga90V7sgLkmc43pmtHAbHLytD5ALDa5OtVJmEU4yhQ3kST4ehd3PH5EEQ7uGMK_UvU5-JgwD8Tbkt-yeJgsw5MODLZFjpaioO7COwvEEZfZSup79gP2l56pUEoSkpv0Q-CiptyEnWgYLXs6PRIeEwn_2Tw/s1111/Frame-22.jpg",
+  "https://www.sreevikash.com/wp-content/uploads/2021/01/professional_headshots_bangalore-5-1536x1024.jpg",
+  "https://as1.ftcdn.net/jpg/04/25/35/46/1000_F_425354618_zubLKYnP0jRb1eFAYwM7sOQP4xsSrgth.jpg"
                 ].map((avatar, index) => (
                   <img key={index} src={avatar} className="w-10 h-10 rounded-full border-2 border-white" alt="Happy guest" />
                 ))}
