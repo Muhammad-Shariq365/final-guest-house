@@ -36,7 +36,7 @@ export default function ContactSection() {
               </div>
               <div>
                 <h3 className="text-lg font-semibold text-gray-900">Address</h3>
-                <p>123 Serenity Lane, City Center, Pakistan</p>
+                <p>DHA PHASE 2 Ext House Number 5A /2/1 Sunset line, Near MCB Bank</p>
               </div>
             </div>
 
@@ -56,7 +56,7 @@ export default function ContactSection() {
               </div>
               <div>
                 <h3 className="text-lg font-semibold text-gray-900">Email</h3>
-                <p>info@luxurystays.pk</p>
+                <p>guesthouseclifton@gmail.com</p>
               </div>
             </div>
 
